@@ -1,1 +1,1 @@
-FROM kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:2.1
+FROM kong:2.1
